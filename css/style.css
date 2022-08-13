@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100%;
-  background: url('../bobro.png') 0 0/100% 100% no-repeat;
+  background: url('https://github.com/Relden/Bobr/blob/a0db8b79b778d8aa7fe7db97c6849fc5bd6a95dc/bobro.png') 0 0/100% 100% no-repeat;
 }
 
 .wrap{
